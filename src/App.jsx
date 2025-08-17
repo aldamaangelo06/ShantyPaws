@@ -26,9 +26,6 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-       Hakdog HAAHA
-       123
-       abc
       </p>
     </>
   )
